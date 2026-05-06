@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 22, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-bent-el-sultan/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Ya Bent El Sultan](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
