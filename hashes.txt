@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Bent El Sultan
+
+This log tracks the cryptographic history and versioning for the song **Ya Bent El Sultan** (ya-bent-el-sultan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:20:25.379272 | `v1` | `a5513e123a75c08836ef0236538f948c0316d1948215087678b535876c31b3ce` | `4cf7b3110e432ed9845e93b095f27c35e38acfb91f6ca2b087c3adde21a6f9f0` | `2026-05-09_ya-bent-el-sultan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
